@@ -31,18 +31,18 @@ Clean and preprocess a raw Netflix dataset by handling missing values, standardi
 ## Screenshots
 
 ### Before Handling Missing Values
-![Before Cleaning](screenshots/01_before_handling_missing_values.png)
+![Before Cleaning](Netflix_BeforeHandlingMissingValues.png)
 
 ### After Handling Missing Values
-![After Cleaning](screenshots/02_after_handling_missing_values.png)
+![After Cleaning](Netflix_afterHandlingMissingValues.png)
 
 ### Data Cleaning Summary
-![Summary](screenshots/03_data_cleaning_summary.png)
+![Summary](Netflix_data_cleaning_summary)
 
 ### Final Dataset Preview
 ![Final Dataset](netflix_data_finalPreview.png)
 
 ### Release Year Analysis
-![Release Year](screenshots/05_release_year_analysis.png)
+![Release Year](Netflix_Release_year_Outliers.png)
 ## Output
 - Cleaned Netflix dataset ready for analysis

@@ -37,7 +37,7 @@ Clean and preprocess a raw Netflix dataset by handling missing values, standardi
 ![After Cleaning](Netflix_afterHandlingMissingValues.png)
 
 ### Data Cleaning Summary
-![Summary](Netflix_data_cleaning_summary)
+![Summary](Netflix_data_cleaning_summary.png)
 
 ### Final Dataset Preview
 ![Final Dataset](netflix_data_finalPreview.png)

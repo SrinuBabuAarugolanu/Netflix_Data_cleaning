@@ -40,7 +40,7 @@ Clean and preprocess a raw Netflix dataset by handling missing values, standardi
 ![Summary](screenshots/03_data_cleaning_summary.png)
 
 ### Final Dataset Preview
-![Final Dataset](screenshots/04_final_dataset_preview.png)
+![Final Dataset](netflix_data_finalPreview.png)
 
 ### Release Year Analysis
 ![Release Year](screenshots/05_release_year_analysis.png)

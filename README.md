@@ -28,5 +28,21 @@ Clean and preprocess a raw Netflix dataset by handling missing values, standardi
 - NumPy
 - Google Colab
 
+## Screenshots
+
+### Before Handling Missing Values
+![Before Cleaning](screenshots/01_before_handling_missing_values.png)
+
+### After Handling Missing Values
+![After Cleaning](screenshots/02_after_handling_missing_values.png)
+
+### Data Cleaning Summary
+![Summary](screenshots/03_data_cleaning_summary.png)
+
+### Final Dataset Preview
+![Final Dataset](screenshots/04_final_dataset_preview.png)
+
+### Release Year Analysis
+![Release Year](screenshots/05_release_year_analysis.png)
 ## Output
 - Cleaned Netflix dataset ready for analysis
